@@ -1,3 +1,4 @@
-var user = { name: "Rajeev", address: "Bangalore" }
+var user: string = { name: "Rajeev", address: "Bangalore", number: "8080" }
 console.log(user)
-console.log(user.name)
+
+export { };
